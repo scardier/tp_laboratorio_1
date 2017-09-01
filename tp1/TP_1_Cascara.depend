@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1490229353 source:d:\lescano, pablo ignacio\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.c"
+
+1490227088 d:\lescano, pablo ignacio\tp_1_cascara\funciones.h
+
+1490229562 d:\lescano, pablo ignacio\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490309335 source:d:\lescano, pablo ignacio\tp_1 - 2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.c"
+
+1490229760 d:\lescano, pablo ignacio\tp_1 - 2017\funciones.h
+
+1490307657 d:\lescano, pablo ignacio\tp_1 - 2017\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1490305684 source:d:\lescano, pablo ignacio\tp_1 - 2017\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490312583 source:d:\lescano\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490229760 d:\lescano\tp1\funciones.h
+
+1490313296 source:d:\lescano\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1491515982 source:c:\users\matyalan\documents\proyectos c\lescano\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1491516100 source:c:\users\matyalan\documents\proyectos c\lescano\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491515363 c:\users\matyalan\documents\proyectos c\lescano\tp1\funciones.h
+
+1491516100 source:c:\users\matyalan\documents\proyectos c\sergio_flores\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491515363 c:\users\matyalan\documents\proyectos c\sergio_flores\tp1\funciones.h
+
+1504274775 source:c:\users\administrador\desktop\sergio_flores\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1504281297 source:c:\users\administrador\desktop\sergio_flores\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504272954 c:\users\administrador\desktop\sergio_flores\tp1\funciones.h
+
